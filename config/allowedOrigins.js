@@ -1,5 +1,5 @@
 const allowedOrigins = [
-    'http://localhost:3000'
+    'https://technotes-fe-lilac.vercel.app'
 ];
 
 module.exports = allowedOrigins;
